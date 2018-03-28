@@ -1,3 +1,4 @@
+print("어 잠깐만")
 print("Helloworld!")
 print("안녕 세상!")
 print("WOW")
